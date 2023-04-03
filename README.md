@@ -16,6 +16,9 @@ Link to the ESP32 Getting Started Guide:
 Download the ESP32 Toolchain for Ubuntu:
 --------------
 
+Followed the instructions from the ESP32 Getting Started Guide:
+Link: https://www.beyondlogic.org/getting-started-with-the-espressif-esp-idf-eclipse-ide/#eclipse_ide
+
 1. Download the Eclipse IDE for C/C++ Developers (Linux x86_64)
 Link: https://www.eclipse.org/downloads/packages/release/2023-03/r
 
