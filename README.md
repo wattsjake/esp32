@@ -16,9 +16,10 @@ Link to the ESP32 Getting Started Guide:
 Download the ESP32 Toolchain for Ubuntu:
 --------------
 
-1. Download the Eclipse IDE for C/C++ Developers
+1. Download the Eclipse IDE for C/C++ Developers (Linux x86_64)
 Link: https://www.eclipse.org/downloads/packages/release/2023-03/r
 
-2. 
+2. Terminal [tar -xzf eclipse-cpp-2020-03-R-linux-gtk-x86_64.tar.gz]
+
 
 
