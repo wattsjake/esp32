@@ -19,7 +19,12 @@ Download the ESP32 Toolchain for Ubuntu:
 1. Download the Eclipse IDE for C/C++ Developers (Linux x86_64)
 Link: https://www.eclipse.org/downloads/packages/release/2023-03/r
 
-2. Terminal [tar -xzf eclipse-cpp-2020-03-R-linux-gtk-x86_64.tar.gz]
+2. cd into the directory where you downloaded the Eclipse IDE for C/C++ Developers (Linux x86_64) and extract the tar file 
+Terminal [tar -xzf eclipse-cpp-2020-03-R-linux-gtk-x86_64.tar.gz]
+Terminal [eclipse/eclipse]
+
+3. Move the eclipse folder to the git32-github folder
+4. Add [eclipse/] to the .gitignore file so that it is not uploaded to github
 
 
 
