@@ -13,4 +13,12 @@ Link to the ESP32 Getting Started Guide:
 --------------
 * https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html
 
+Download the ESP32 Toolchain for Ubuntu:
+--------------
+
+1. Download the Eclipse IDE for C/C++ Developers
+Link: https://www.eclipse.org/downloads/packages/release/2023-03/r
+
+2. 
+
 
