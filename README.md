@@ -2,6 +2,9 @@
 [install]: /docs/screenshot-installation.png "Installation Screenshot"
 [add]: /docs/screenshot-add.png "Add ESP32 Plugin Screenshot"
 [expand]: /docs/screenshot-expand.png "Expand Window Screenshot"
+[next]: /docs/screenshot-next.png "Next Screenshot"
+[unsigned]: /docs/screenshot-unsigned.png "Unsigned Screenshot"
+[manager]: /docs/screenshot-manager.png "Manager Screenshot"
 
 ![alt text][logo]
 ==================
@@ -34,6 +37,7 @@ Run the following commands in the Terminal:
 4. Add the following to the .gitignore file so that it is not uploaded to github
 
     ```eclipse/```
+
     ```workspace/```
 
 5. Use a terminal to open the Eclipse IDE for C/C++ Developers (Linux x86_64)
@@ -51,13 +55,31 @@ Run the following commands in the Terminal:
 8. Install the ESP32 Eclipse Plugin
 
     ```Espressif IDF Plugin for Eclipse```
+
     ```https://dl.espressif.com/dl/idf-eclipse-plugin/updates/latest/```
 
     ![alt text][add]  
 
 9. Expand the window and select all the options
 
-    ![alt text][expand]  
+    ![alt text][expand]
+
+10. Click Next
+
+    ![alt text][next]
+
+11. Click Finish
+    You might get a warning about unsigned content. Click OK
+
+    ![alt text][unsigned]
+
+12. Restart Eclipse
+
+13. Open the ESP32 Eclipse Plugin
+
+    ![alt text][manager]
+
+
 
 
 
