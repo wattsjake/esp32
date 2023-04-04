@@ -29,5 +29,7 @@ Terminal [eclipse/eclipse]
 3. Move the eclipse folder to the git32-github folder
 4. Add [eclipse/] to the .gitignore file so that it is not uploaded to github
 
+5. Use 'eclipse/eclipse' to open the Eclipse IDE for C/C++ Developers (Linux x86_64)
+
 
 
