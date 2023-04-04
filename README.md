@@ -23,14 +23,17 @@ Link: https://www.eclipse.org/downloads/packages/release/2023-03/r
 
 2. 'cd' into the directory where you downloaded the Eclipse IDE for C/C++ Developers (Linux x86_64) and extract the tar file
 Run the following commands in the Terminal:
+
 ```tar -xzf eclipse-cpp-2020-03-R-linux-gtk-x86_64.tar.gz```
 
 3. Move the eclipse folder to the git32-github folder
 
 4. Add the following to the .gitignore file so that it is not uploaded to github
+
 ```eclipse/```
 
 5. Use the following to open the Eclipse IDE for C/C++ Developers (Linux x86_64)
+
 ```eclipse/eclipse```
 
 
