@@ -1,5 +1,4 @@
-[logo]: /docs/wsu_horiz1.png "Weber State University"
-[pinout]: /docs/C8051F02x-pg91024_1.png "C8051F020 Pinout"
+[logo]: /docs/esp32-photo.jpg "ESP32 Microcontroller"
 
 ![alt text][logo]
 ==================
