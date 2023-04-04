@@ -1,6 +1,7 @@
 [logo]: /docs/esp32-photo.jpg "ESP32 Microcontroller"
 [install]: /docs/screenshot-installation.png "Installation Screenshot"
 [add]: /docs/screenshot-add.png "Add ESP32 Plugin Screenshot"
+[expand]: /docs/screenshot-expand.png "Expand Window Screenshot"
 
 ![alt text][logo]
 ==================
@@ -49,7 +50,16 @@ Run the following commands in the Terminal:
 
 8. Install the ESP32 Eclipse Plugin
 
+    ```Espressif IDF Plugin for Eclipse```
+    ```https://dl.espressif.com/dl/idf-eclipse-plugin/updates/latest/```
+
     ![alt text][add]  
+
+9. Expand the window and select all the options
+
+    ![alt text][expand]  
+
+
 
 
 
