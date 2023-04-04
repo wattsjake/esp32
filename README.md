@@ -69,7 +69,7 @@ Run the following commands in the Terminal:
     ![alt text][next]
 
 11. Click Finish
-    You might get a warning about unsigned content. Click OK
+    You might get a warning about unsigned content. Select the checkbox next to 'unsigned' and click 'Trust Selected'
 
     ![alt text][unsigned]
 
@@ -78,6 +78,12 @@ Run the following commands in the Terminal:
 13. Open the ESP32 Eclipse Plugin
 
     ![alt text][manager]
+
+Download and Configure ESP-IDF
+--------------
+
+1. To use the plug-in, from the help menu, select Download and Configure ESP-IDF to bring up the following dialog box.
+
 
 
 
