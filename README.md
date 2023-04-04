@@ -1,5 +1,6 @@
 [logo]: /docs/esp32-photo.jpg "ESP32 Microcontroller"
 [install]: /docs/screenshot-installation.png "Installation Screenshot"
+[add]: /docs/screenshot-add.png "Add ESP32 Plugin Screenshot"
 
 ![alt text][logo]
 ==================
@@ -45,6 +46,12 @@ Run the following commands in the Terminal:
 7. Install the ESP32 Toolchain for Ubuntu
 
     ![alt text][install]
+
+8. Install the ESP32 Eclipse Plugin
+
+    ![alt text][add]  
+
+
 
 
 
