@@ -44,7 +44,7 @@ Run the following commands in the Terminal:
 
 7. Install the ESP32 Toolchain for Ubuntu
 
-    ![alt text][logo]
+    ![alt text][install]
 
 
 
